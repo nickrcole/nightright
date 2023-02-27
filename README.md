@@ -30,6 +30,8 @@ Wake Up View            |  Sleep Summary View          | Audio Events View      
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/sleepsummary.PNG?raw=true" height="500"/>  |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/nightsummary.PNG?raw=true" height="500"/> |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/eventsview.PNG?raw=true" height="500"/> |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/settings.jpeg?raw=true" height="500"/>
 
+More UI screenshots included in ./demo assets in this repo
+
 
 ## Credits
 
