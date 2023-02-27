@@ -22,7 +22,7 @@ night right is a simple sleep analysis and snore reduction app for iOS. Using a 
 
 
 ## Demo
-<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/welcome.gif?raw=true"/>
+<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/welcome.gif?raw=true" width="576" height="1024"/>
 
 
 ## Credits
