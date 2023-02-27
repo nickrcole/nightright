@@ -17,6 +17,9 @@ night right is a simple sleep analysis and snore reduction app for iOS. Using a 
 
 - Implement bedtime and wakeup notifications
 - Implement Apple Watch support to silenty wake up the user via vibrations when snoring is detected
+- Implement cloud data syncing with my custom <a href="https://github.com/nickrcole/authbackend">authentication backend</a>
+
+
 ## Demo
 
 Insert gif or link to demo
