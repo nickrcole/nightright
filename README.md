@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/lNV2KBm.png" width="150" height="150" style="inset(0% 45% 0% 45% round 10px)"/>
-# night right
+## night right
 
 night right is a simple sleep analysis and snore reduction app for iOS. Using a custom trained AI model, night right listens while you sleep and gently wakes you up when it detects snoring. Over time night right helps train your body to reduce snoring.
 
