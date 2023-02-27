@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22A400" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AllNights" representedClassName="AllNights" syncable="YES" codeGenerationType="category">
+        <attribute name="nightCount" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="nights" optional="YES" attributeType="Transformable" valueTransformerName="[Date:NightDelegate]"/>
+    </entity>
+    <entity name="Configuration" representedClassName="Configuration" syncable="YES">
+        <attribute name="accentColor" optional="YES" attributeType="Transformable" customClassName="[Float]"/>
+        <attribute name="alarm" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="alarmTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="bedtime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="bedtimeNotifications" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="notificationsAllowed" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="snooze" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="snoreReduction" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
+        <attribute name="recordings" optional="YES" attributeType="Transformable"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="NightDelegate" representedClassName="NightDelegate" syncable="YES">
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="score" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="snoreReduction" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="snoringURLs" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[URL]"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+</model>
