@@ -12,6 +12,7 @@ night right is a simple sleep analysis and snore reduction app for iOS. Using a 
 - Records clips of audio events such as snoring and sleep talking overnight
 - Tracks snoring progress over time
 - Snoring alarm and wake up alarm
+- Dream logging
 
 
 ## To Do List
