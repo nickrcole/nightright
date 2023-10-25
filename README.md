@@ -25,11 +25,15 @@ night right is a simple sleep analysis and snore reduction app for iOS. Using a 
 ## Demo
 Welcome View            |  Progress View
 :-------------------------:|:-------------------------:
-<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/welcome.gif?raw=true" height="500"/>  |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/progress.gif?raw=true" height="500"/>
+<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/welcome.gif?raw=true" height="400"/>  |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/progress.gif?raw=true" height="400"/>
 
-Wake Up View            |  Sleep Summary View          | Audio Events View         | Settings View
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/sleepsummary.PNG?raw=true" height="500"/>  |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/nightsummary.PNG?raw=true" height="500"/> |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/eventsview.PNG?raw=true" height="500"/> |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/settings.jpeg?raw=true" height="500"/>
+Wake Up View            |  Sleep Summary View          
+:-------------------------:|:-------------------------:
+<img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/sleepsummary.PNG?raw=true" height="400"/>  |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/nightsummary.PNG?raw=true" height="400"/> 
+
+| Audio Events View         | Settings View
+|:-------------------------:|:-------------------------:
+|  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/eventsview.PNG?raw=true" height="400"/> |  <img src="https://github.com/nickrcole/nightright/blob/main/demo%20assets/settings.jpeg?raw=true" height="400"/>
 
 More UI screenshots included in ./demo assets in this repo
 
