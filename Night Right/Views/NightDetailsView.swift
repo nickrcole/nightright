@@ -14,7 +14,7 @@ struct NightDetailsView: View {
     @ObservedObject var config: Config
     @ObservedObject var night: NightDelegate
     let waveformColor: Color = .blue
-    @State var audioURL = Bundle.main.url(forResource: "snoring343", withExtension: "wav")!
+    @State var audioURL = Bundle.main.url(forResource: "test_snoring", withExtension: "wav")!
     @State var configuration: Waveform.Configuration = Waveform.Configuration(style: .striped(Waveform.Style.StripeConfig(color: UIColor(Color.blue), width: 4)))
     @State var dreamNotes: [String] = Array(0..<5).map { num in String(num) }
     var audioPlayer: AVAudioPlayer?

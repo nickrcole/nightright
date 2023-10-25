@@ -54,7 +54,7 @@ struct NightSummaryView: View {
                         Text("you slept")
                             .font(.title3)
                         if thisNight.startDate != nil && thisNight.endDate != nil {
-                            Text(String(diffMinutes(start: thisNight.startDate!, end: thisNight.endDate!) / 12))
+                            Text(String(diffMinutes(start: thisNight.startDate!, end: thisNight.endDate!) / 60))
                                 .font(.title3)
                                 .fontWeight(.bold)
                         }

@@ -244,8 +244,8 @@ struct InfoView: View {
     }
 }
 
-//struct AudioEventsView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        AudioEventsView(config: Config(), nightDelegate: NightDelegate())
-//    }
-//}
+struct AudioEventsView_Previews: PreviewProvider {
+    static var previews: some View {
+        AudioEventsView(config: Config(), nightDelegate: NightDelegate())
+    }
+}
