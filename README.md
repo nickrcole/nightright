@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lNV2KBm.png" width="150" height="150" style="inset(0% 45% 0% 45% round 10px)"/>
 
-#UPDATE 3/14/24
+# UPDATE 3/14/24
 
 This project isn't really finished. The model can detect snoring pretty well but I haven't implemented the snoring alarm that actually wakes the user up. There may be some other little things that weren't quite finished. I published this repo to help me get a job so I played it up a little. Coming back now I'm seeing a couple people forking/starring so I wanna make it clear up front so no one wastes time.
 
